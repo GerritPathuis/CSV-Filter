@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: VTK_csv_filter, Configuration: Debug Any CPU ------
+1>  VTK_csv_filter -> C:\VTK_csv_filter\Repos1\VTK_csv_filter\VTK_csv_filter\bin\Debug\VTK_csv_filter.exe
+Building VTK_csv_filter...
+2>------ Publish started: Project: VTK_csv_filter, Configuration: Debug Any CPU ------
+Connecting to 'C:\VTK_csv_filter\VTK_csv_filter\Publish\'...
+Publishing files...
+Publish success.
+C:\VTK_csv_filter\VTK_csv_filter\Publish\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
